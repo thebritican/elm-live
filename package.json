@@ -51,7 +51,7 @@
     "eslint-config-airbnb": "^7.0.0",
     "marked-man": "^0.1.5",
     "nyc": "^6.1.1",
-    "proxyquire": "^1.7.4",
+    "proxyquire": "^1.7.9",
     "strip-ansi": "^3.0.0"
   }
 }
