@@ -8,7 +8,7 @@
   "dependencies": {
     "budo": "^8.0.4",
     "chalk": "^1.1.1",
-    "chokidar": "^1.4.3",
+    "chokidar": "^1.5.1",
     "cross-spawn": "^2.1.5",
     "hasbin": "^1.2.1",
     "indent-string": "^2.1.0",
