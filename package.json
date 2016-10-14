@@ -47,7 +47,7 @@
     "ava": "^0.16.0",
     "coveralls": "^2.11.9",
     "dev-null": "^0.1.1",
-    "eslint": "^3.3.1",
+    "eslint": "^3.8.0",
     "eslint-config-airbnb-base": "^5.0.2",
     "eslint-plugin-import": "^1.13.0",
     "marked-man": "^0.1.5",
